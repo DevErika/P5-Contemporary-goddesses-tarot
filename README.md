@@ -1,5 +1,8 @@
-# 🔮 Contemporary Goddesses Tarot
 
+# 🔮 Contemporary Goddesses Tarot – Forked Version  
+
+This repository is a **fork** of the original project [Contemporary Goddesses Tarot](https://github.com/surayac/P5-Contemporary-goddesses-tarot), created as part of the **Factoría F5 Bootcamp**.  
+It is meant to serve as a **personal workspace** where I will apply corrections and improvements suggested by our teacher, while keeping the original project intact.  
 A virtual tarot that reveals your past, present, and future — each card linked to a contemporary woman in STEM.
 Our goal is to honor and highlight women who are leading and innovating in fields that have traditionally been male-dominated.
 
